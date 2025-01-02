@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #F5D04E;
+}
+.img img{
+    width: 300px;
+    margin: 20px 20px;
+    border-radius: 10px;
+}
+.learn p{
+    background-color: #F5D04E;
+    width: 60px;    
+}
+div p{
+    margin: 20px 0px 20px 20px;
+}
+div h1{
+    margin: 0px 20px;
+}
+div h1:hover{
+    background-color: #F5D04E;
+    color: black;
+}
+.footer img{
+    width: 30px;
+    height: 30px;
+    margin: 0px 20px;
+}
+.profile2{
+    margin: 40px auto;
+    background-color: white;
+    width: 340px;
+    height: 500px;
+    box-shadow: 10px 10px;
+    border-radius: 15px;
+}
+.footer{
+    display: flex;
+align-items: center;
+}
